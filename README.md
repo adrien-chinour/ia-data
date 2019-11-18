@@ -1,2 +1,2 @@
-# ia-data
-Initiation à l'IA en Python
+# Intelligence artificielle et données
+
